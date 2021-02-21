@@ -1,0 +1,270 @@
+{
+"status": "ok",
+"totalResults": 38,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"source.name": "Priyanka Sharma",
+"title": "Bigg Boss 14 finale LIVE UPDATES: It is Rubina Dilaik vs Rahul Vaidya, says our poll - The Indian Express",
+"description": "Bigg Boss Season 14 Finale Winner Name, Elimination Today, BB14 Finale Winner Live Streaming: Rubina Dilaik, Rahul Vaidya, Rakhi Sawant, Aly Goni and Nikki Tamboli fight for trophy",
+"url": "https://indianexpress.com/article/entertainment/television/bigg-boss-14-finale-winner-live-updates-rubina-dilaik-rahul-vaidya-rakhi-sawant-aly-goni-and-nikki-tamboli-7197013/",
+"image": "https://images.indianexpress.com/2021/02/bb141.jpg",
+"publishedAt": "2021-02-21T10:30:31Z",
+"content": "Bigg Boss 14 finale is set to air on February 21. Stay tuned for Bigg Boss 14 finale winner live updates here as the Salman Khan-hosted show’s arduously long journey is close to its end. As Salman wi… [+1987 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"source.name": "TIMESOFINDIA.COM",
+"title": "CBI notice to wife of Mamata's nephew Abhishek Banerjee in coal smuggling case - Times of India",
+"description": "India News: The Central Bureau of Investigation (CBI) on Sunday visited summoned TMC MP Abhishek Banerjee's wife Rujira in coal pilferage case. Abhishek Banerjee",
+"url": "https://timesofindia.indiatimes.com/india/coal-smuggling-case-cbi-summons-abhishek-banerjees-wife/articleshow/81135953.cms",
+"image": "https://static.toiimg.com/thumb/msid-81136007,width-1070,height-580,imgsize-678149,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2021-02-21T10:22:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"source.name": "Express Web Desk",
+"title": "Covid-19 India Live Updates: Gujarat CM Vijay Rupani tests negative for Covid-19 - The Indian Express",
+"description": "Coronavirus India Live News, Covid-19 New Cases in India Latest News Updates: Five states -- Kerala, Maharashtra, Punjab, Chhattisgarh and Madhya Pradesh -- have been witnessing an upsurge in daily cases amid rising fears of the spread of new variants from So…",
+"url": "https://indianexpress.com/article/india/covid-19-india-live-updates-maharashtra-kerala-punjab-mumbai-7198002/",
+"image": "https://images.indianexpress.com/2021/02/Covi.jpg",
+"publishedAt": "2021-02-21T10:12:42Z",
+"content": "Ninety deaths were reported on Saturday. (Express Photo by Deepak Joshi)Coronavirus India Live Updates: Almost a week after he tested positive for Covid-19, Gujarat Chief Minister Vijay Rupani’s late… [+2625 chars]"
+},
+
+{
+"source": {
+"id": null,
+"name": "cricket.com.au"
+},
+"source.name": "Cricket Network",
+"title": "World's biggest cricket stadium set for first match - cricket.com.au",
+"description": "India and England train at the new Sardar Patel Stadium in Ahmedabad, which has a capacity of 110,000 people",
+"url": "https://www.cricket.com.au/news/world-biggest-cricket-stadium-sardar-patel-stadium-ahmedabad-england-india-third-test-crowd-capacity/2021-02-21",
+"image": "https://www.cricket.com.au/~/-/media/News/2021/02/21StadiumMain.ashx?w=1600",
+"publishedAt": "2021-02-21T05:12:16Z",
+"content": "The biggest cricket stadium in the world will hold its first international match this week, with the newly renovated Sardar Patel Stadium (file photo shown above) to host the third Test between India… [+2020 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5google.com"
+},
+"source.name": null,
+"title": "Samsung concept videos leak ‘Glasses Lite’ and ‘Next Wearable Computing’ AR vision - 9to5Google",
+"description": "Samsung's work on AR possibly leaked today, but there are many unknowns about \"Glasses Lite.\" It joins Apple, Facebook, and Microsoft on...",
+"url": "https://9to5google.com/2021/02/21/samsung-glasses-lite-ar/",
+"image": "https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/02/samsung-glasses-lite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2021-02-21T09:59:00Z",
+"content": "Apple, Facebook, and Microsoft Google’s plan is not yet clear are all working on augmented reality wearables. Samsung’s work on AR possibly leaked today, but there are many unknowns about “Glasses Li… [+2560 chars]"
+},
+
+{
+"source": {
+"id": "the-hindu",
+"name": "The Hindu"
+},
+"source.name": "Special Correspondent",
+"title": "Coronavirus | Centre writes to States witnessing spike in daily new COVID-19 cases - The Hindu",
+"description": "Directs them to increase the proportion of RT-PCR tests and subject Rapid Antigen negative people to mandatory retest by RT-PCR",
+"url": "https://www.thehindu.com/news/national/coronavirus-centre-writes-to-states-witnessing-spike-in-daily-new-covid-19-cases/article33894053.ece",
+"image": "https://www.thehindu.com/news/national/6wv3bo/article33894052.ece/ALTERNATES/LANDSCAPE_615/vbk-coronavirus-covid-mumbai-ap",
+"publishedAt": "2021-02-21T08:49:09Z",
+"content": "The Centre has written to States Kerala, Maharashtra, Chhattisgarh, Madhya Pradesh, Punjab and J&amp;K which are witnessing a daily surge in the number of daily COVID-19 cases directing an increase i… [+3004 chars]"
+},
+
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"source.name": "HT Entertainment Desk",
+"title": "Kareena Kapoor Khan fans blow up Twitter with Taimur memes as she welcomes second baby boy with Saif Ali Khan - Hindustan Times",
+"description": "It's a boy for Kareena Kapoor Khan and Saif Ali Khan! The couple welcomed their second child together on Sunday morning. Twitteratti had a field day as they flooded the internet with memes.",
+"url": "https://www.hindustantimes.com/entertainment/bollywood/kareena-kapoor-khan-fans-blow-up-twitter-with-taimur-memes-as-she-welcomes-second-baby-boy-with-saif-ali-khan-101613887298617.html",
+"image": "https://images.hindustantimes.com/img/2021/02/21/1600x900/133918181_746018113003988_4161413563963126071_n_1613887539742_1613887558092.jpg",
+"publishedAt": "2021-02-21T07:35:00Z",
+"content": "Congratulations are in order as Kareena Kapoor Khan and Saif Ali Khan welcomed their baby boy. The couple, who announced that they were expecting their second baby last year, welcomed their baby this… [+1838 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"source.name": "Asian News International",
+"title": "Aaron Finch Reacts After Going Unsold In IPL 2021 Player Auction - NDTV Sports",
+"description": "Australia captain Aaron Finch went unsold at the Indian Premier League 2021 player auction.",
+"url": "https://sports.ndtv.com/ipl-2021/ipl-auction-2021-aaron-finch-reacts-after-going-unsold-in-ipl-2021-player-auction-2375268",
+"image": "https://c.ndtvimg.com/2021-02/nuh6gklo_aaron-finch-instagram_625x300_21_February_21.jpg",
+"publishedAt": "2021-02-21T07:24:12Z",
+"content": "Australia's Aaron Finch said that going unsold at the recent Indian Premier League (IPL) 2021 Player Auction was not unexpected. \"It would have been nice to be playing again. It's a wonderful competi… [+1232 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"source.name": "Express Web Desk",
+"title": "Ingenuity helicopter, strapped to NASA’s Perseverance Mars rover, sends first status report - The Indian Express",
+"description": "If things go as planned, Ingenuity, a 1.8 kilogram rotorcraft, will become the first helicopter to fly on another planet.",
+"url": "https://indianexpress.com/article/technology/science/ingenuity-helicopter-strapped-to-nasas-perseverance-mars-rover-sends-first-status-report-7198057/",
+"image": "https://images.indianexpress.com/2020/07/nasa-1200.jpg",
+"publishedAt": "2021-02-21T06:49:05Z",
+"content": "Mission controllers at NASA have received the first status report from the Ingenuity Helicopter, which was strapped to the underbelly of the Perseverance rover that touched down on Mars earlier this … [+3394 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Quint"
+},
+"source.name": "The Quint",
+"title": "10th Round of India-China Military Talks End After 16-Hour Meet - The Quint",
+"description": "The tenth round of disengagement talks between India and China which started at 10 am on Saturday, 20 February, lasted for around 16 hours.",
+"url": "https://www.thequint.com/news/india/tenth-round-of-india-china-military-talks-end-after-16-hour-meet",
+"image": "https://images.thequint.com/thequint%2F2021-01%2Fa7fb1732-5b8a-4a45-8333-6fdb2ab9dac5%2Fchina_india.jpg?rect=0%2C39%2C1040%2C546&w=1200&auto=format%2Ccompress&ogImage=true",
+"publishedAt": "2021-02-21T06:49:01Z",
+"content": "The tenth round of disengagement talks between India and China, which started at 10 am on Saturday, 20 February, lasted for around 16 hours. According to a report by NDTV, disengagement in Depsang, H… [+383 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Livemint"
+},
+"source.name": "Staff Writer",
+"title": "Centre invites comments on allowing sale of 50% coal from captive blocks - Mint",
+"description": "The import of coal has increased on a year-on-year basis. While it was 203.95 million tonne (MT) in 2015-16, it reached 248.54 MT in 2019-20",
+"url": "https://www.livemint.com/news/india/centre-invites-comments-on-allowing-sale-of-50-coal-from-captive-blocks-11613888803426.html",
+"image": "https://images.livemint.com/img/2021/02/21/600x338/coal-ki4E--621x414@LiveMint_1613889754857.jpg",
+"publishedAt": "2021-02-21T06:43:34Z",
+"content": "The central government is planning to permit the sale of 50% of coal/lignite produced by captive blocks, the Union ministry of coal said in a statement. The move is aimed at augmenting the production… [+2164 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"source.name": "Reuters",
+"title": "Russia reports world’s first case of human infection with H5N8 bird flu - The Indian Express",
+"description": "Outbreaks of the H5N8 strain have been reported in Russia, Europe, China, the Middle East and North Africa in recent months but so far only in poultry. Other strains - H5N1, H7N9 and H9N2 - have been known here) to spread to humans.",
+"url": "https://indianexpress.com/article/world/russia-reports-worlds-first-case-of-human-infection-with-h5n8-bird-flu-7198026/",
+"image": "https://images.indianexpress.com/2021/02/Russia.jpg",
+"publishedAt": "2021-02-21T06:38:47Z",
+"content": "Russia has registered the first case of a strain of bird flu virus named A(H5N8) being passed to humans from birds and has reported the matter to the World Health Organization (WHO), Anna Popova, hea… [+1950 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"source.name": "PTI",
+"title": "TCS, 7 other companies' market value plunges by Rs 1.2 lakh crore in a week - Economic Times",
+"description": "RIL was leading the chart followed by TCS, HDFC Bank, Infosys, Hindustan Unilever Limited, HDFC, ICICI Bank, Kotak Mahindra Bank, SBI and Bajaj Finance.",
+"url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-7-other-companies-market-value-plunges-by-rs-1-2-lakh-crore-in-a-week/articleshow/81134667.cms",
+"image": "https://img.etimg.com/thumb/msid-81134664,width-1070,height-580,imgsize-48830,overlay-etmarkets/photo.jpg",
+"publishedAt": "2021-02-21T06:31:00Z",
+"content": "NEW DELHI: Eight of the top 10 most-valued companies together witnessed an erosion of Rs 1,23,670.47 crore from market valuation last week, in-line with a bearish broader market trend.\r\nDuring the la… [+1273 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GSMArena.com"
+},
+"source.name": "Chip",
+"title": "Exclusive: Realme GT pictured at MWC Shanghai - GSMArena.com news - GSMArena.com",
+"description": "The bumblebee back is looking sweet.",
+"url": "https://www.gsmarena.com/exclusive_realme_gt_pictured_at_mwc_shanghai-news-47857.php",
+"image": "https://fdn.gsmarena.com/imgroot/news/21/02/realme-gt-mwc/-476x249w4/gsmarena_003.jpg",
+"publishedAt": "2021-02-21T06:06:01Z",
+"content": "MWC Shangai is starting on Tusday but we already have our first bit of news from the showfloor. We got an image of the Realme booth from somebody working on the ground and it gives us another look at… [+831 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hindustan Times"
+},
+"source.name": "HT Tech",
+"title": "YouTube will not reopen Spaces as its shifts focus to a new hybrid model - HT Tech",
+"description": "YouTube had launched Spaces to help content creators access state-of-the-art studios.",
+"url": "https://tech.hindustantimes.com/tech/news/youtube-will-not-reopen-spaces-as-its-shifts-focus-to-a-new-hybrid-model-71613886060957.html",
+"image": "https://images.hindustantimes.com/tech/img/2021/02/21/600x338/szabo-viktor-UfseYCHvIH0-unsplash_(1)_1613795933143_1613795944053_1613886121959.jpg",
+"publishedAt": "2021-02-21T05:41:00Z",
+"content": "YouTube will not reopen its physical YouTube Spaces in Berlin, London, Los Angeles, New York, Paris, Rio, and Tokyo. The company said it is now shifting its focus to a hybrid model that combines virt… [+1757 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"source.name": null,
+"title": "Puducherry Congress Crisis Deepens As Another MLA Quits Before Floor Test - NDTV",
+"description": "One more Congress MLA has resigned in Puducherry a day before a test of strength after the ruling party no longer has a majority. Four-time Congress MLA Lakshminarayanan while putting in his papers said he is upset over not getting \"recognition\" in the party.…",
+"url": "https://www.ndtv.com/india-news/another-congress-mla-quits-ahead-of-floor-test-in-puducherry-government-now-has-13-legislators-out-of-27-2375350",
+"image": "https://c.ndtvimg.com/2021-02/u9e1qgis_puducherry-cm-v-narayanasamy-with-tamilisai-soundararajan-pti-650_625x300_18_February_21.jpg",
+"publishedAt": "2021-02-21T10:01:31Z",
+"content": "The Congress government's strength in the Puducherry legislative assembly has fallen to 13\r\nPuducherry: One more Congress MLA has resigned in Puducherry a day before a test of strength after the ruli… [+2129 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"source.name": null,
+"title": "Amid Covid Surge, Schools, Colleges Closed In Pune Till Next Week - NDTV",
+"description": "The district administration of Pune has closed all the school and coaching institutions among a number of restrictions imposed to curb the sudden surge in coronavirus cases in the metropolitan.",
+"url": "https://www.ndtv.com/india-news/schools-colleges-shut-in-pune-till-feb-28-amid-rise-in-coronavirus-cases-no-public-movement-allowed-between-11-pm-and-6-am-2375274",
+"image": "https://i.ndtvimg.com/i/2016-09/pune-generic_650x400_61473674466.jpg",
+"publishedAt": "2021-02-21T08:19:00Z",
+"content": "The district administration of Pune has closed down all the school and coaching institutions.\r\nPune: The district administration of Pune has closed all school and coaching institutions among other re… [+2583 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NDTV News"
+},
+"source.name": null,
+"title": "India, Maldives Sign $50 Million Defence Agreement - NDTV",
+"description": "India on Sunday reiterated its commitment to the Maldives' security and signed a USD 50 million defence Line of Credit agreement with it to boost the maritime capabilities of the strategic island nation.",
+"url": "https://www.ndtv.com/india-news/india-maldives-sign-50-million-defence-agreement-2375286",
+"image": "https://c.ndtvimg.com/2021-02/d0mktsqo_s-jaishnakar-mariya-didi-twitter_625x300_21_February_21.jpg",
+"publishedAt": "2021-02-21T07:57:18Z",
+"content": "External Affairs Minister S Jaishnakar held discussions with Maldivian Defence Minister Mariya Didi.\r\nMale: India on Sunday reiterated its commitment to the Maldives' security and signed a USD 50 mil… [+2240 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "India Today"
+},
+"source.name": null,
+"title": "Sachin Tendulkar congratulates Suryakumar, Ishan, Tewatia on maiden call-up: Playing for India is highest honour - India Today",
+"description": "Cricket News - find the latest update on cricket matches, live score updates, BCCI, player selection, Photos, IPL updates only from india today.",
+"url": "https://www.indiatoday.in/sports/cricket",
+"image": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/section_share.png",
+"publishedAt": "2021-02-21T05:26:03Z",
+"content": "England tour of India: Uncapped players, of IPL fame, Suryakumar Yadav, Ishan\r\nKishan and Rahul Tewatia have attained maiden call ups for the T20I series\r\nnext month."
+},
+
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"source.name": null,
+"title": "Vivo S9e Price and Specifications Leaks Ahead Of Official Launch - Kalinga TV",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8va2FsaW5nYXR2LmNvbS90ZWNobm9sb2d5L3Zpdm8tczllLXdpdGgtbWVkaWF0ZWstZGltZW5zaXR5LTgyMC1zb2MtdG8tbGF1bmNoLXNvb24tcHJpY2UtYW5kLXNwZWNzLWxlYWtlZC_SAQA?oc=5",
+"image": null,
+"publishedAt": "2021-02-21T09:16:48Z",
+"content": null
+}
+]
+}

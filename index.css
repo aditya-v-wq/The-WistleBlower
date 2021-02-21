@@ -1,0 +1,51 @@
+.Nav{
+    background-color: rgb(44, 70, 104);
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+    margin: 2px;
+    
+}
+.nav-Link {
+    text-decoration: none;
+    color: rgb(255 255 255);
+    padding: 8px 5px;
+    font-size: 15px;
+    border-radius:5px ;
+
+}
+.nav-Link:hover{
+    /* background-color: teal; */
+    background-color: #4a818e;
+    font-size: 16px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+header
+{
+    text-align: center;
+    background-color: sandybrown;
+    padding:18px 10px; 
+    margin-bottom:7px;
+    font-size:x-large;
+    font-family: 'Shadows Into Light', cursive;
+    border-radius: 4px;
+}
+#Home
+{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#Search_bar
+{width: 20%;}
+
+#badge
+{
+    margin-left: 3%;
+    margin-right: 10%;
+}
+#tabs
+{
+    background-color: rgb(65, 91, 124);
+}
