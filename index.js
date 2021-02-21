@@ -9,9 +9,9 @@ let newsAccordion = document.getElementById('newsAccordion');
 // Create an ajax get request
 var xhr = new XMLHttpRequest();
 
-xhr.open('GET', `https://gnews.io/api/v4/top-headlines?country=in&lang=en&token=0d26f3e3add0a936699c625c54c4a0e4`, true);
+//xhr.open('GET', `https://gnews.io/api/v4/top-headlines?country=in&lang=en&token=0d26f3e3add0a936699c625c54c4a0e4`, true);
 // xhr.open('GET', `https://newsapi.org/v2/top-headlines?country=in&apiKey=70f1bc68ba864890bdcdfde42de3a200`, true);
-// xhr.open('GET', `test.txt`, true);
+ xhr.open('GET', `test.txt`, true);
 
 
 
