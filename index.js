@@ -59,7 +59,7 @@ xhr.onload = function () {
                 <div id="collapse${index}" class="accordion-collapse collapse show" aria-labelledby="heading${index}" data-bs-parent="#newsAccordion">
                         <div class="accordion-body"> ${element["description"]}. <a href="${element['url']}" target="_blank" >Read more here</a> 
                         <div> <img src="${element["image"]}" alt="" style="height:200px; margin:5px; ">
-                         by ${element["source.name"]}</div>
+                         by ${element["source"."name"]}</div>
                         
                         </div>
             </div>`;
